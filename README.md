@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Mongolia 🫶🇲🇳</h3>
 <img align="right" src="https://media3.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif?cid=ecf05e47fpr3r6kaf6ynlc9lo1txz7ciqqnqi968cb19tmtw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" width="400"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binderiyts&label=Profile%20views&color=0e75b6&style=flat" alt="binderiyts" width="300px"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=binderiyts&label=Profile%20views&color=0e75b6&style=flat" alt="binderiyts"/> </p>
 
 -  👩🏻‍💻I’m currently working on [my portfolio website](https://github.com/binderiyats/portfolio-with-framer-motion)
 
