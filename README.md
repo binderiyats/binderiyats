@@ -1,4 +1,4 @@
-[![MasterHead](https://static.wixstatic.com/media/e22ba2_52556f2882d14a079443dd9913263d38~mv2.gif)]
+![MasterHead](https://static.wixstatic.com/media/e22ba2_52556f2882d14a079443dd9913263d38~mv2.gif)
 <h1 align="center">Hi 👋, I'm Binderiya</h1>
 <h3 align="center">A passionate frontend developer from Mongolia 🫶🇲🇳</h3>
 <img align=“right” alt=“Coding”  width=“400” src=“https://static.wixstatic.com/media/e22ba2_52556f2882d14a079443dd9913263d38~mv2.gif”>
